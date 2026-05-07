@@ -58,3 +58,5 @@ Abu Dhabi and Sharjah.
 Built as Project 1 of 7 portfolio projects developing 
 skills in Excel, SQL, Power BI and Python — targeting 
 Energy Data Analyst roles in UAE and India.
+<img width="1498" height="926" alt="Excel_P1" src="https://github.com/user-attachments/assets/13ea2cde-c023-44bc-a29c-d19c91d1b621" />
+
